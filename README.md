@@ -76,6 +76,7 @@ http://<your-ec2-public-ip>
 Your application should now be accessible to everyone!
 
 IMPORTENT NOTE :
+
 1.This application works only over HTTP. HTTPS is not configured.
 
 2.Ensure the /var/www/html/ directory contains only your application files.
