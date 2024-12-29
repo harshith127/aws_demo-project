@@ -77,7 +77,9 @@ Your application should now be accessible to everyone!
 
 IMPORTENT NOTE :
 1.This application works only over HTTP. HTTPS is not configured.
+
 2.Ensure the /var/www/html/ directory contains only your application files.
+
 3.Restrict SSH access in your security group for better security.
 
 
